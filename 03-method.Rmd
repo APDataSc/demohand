@@ -1,10 +1,10 @@
-# Methods
+# Mortalidad
 
 We describe our methods in this chapter.
 
 Math can be added in body using usual syntax like this 
 
-## math example
+## Registro Estadístico de Defunciones Censales
 
 $p$ is unknown but expected to be around 1/3. Standard error will be approximated
 
@@ -21,3 +21,18 @@ We will approximate standard error to 0.027[^longnote]
     $$
     SE = \sqrt(\frac{p(1-p)}{n}) \approx \sqrt{\frac{1/3 (1 - 1/3)} {300}} = 0.027
     $$
+
+## Mortalidad infantil
+
+
+## Mortalidad adulta
+
+
+## Tablas de Mortalidad
+
+
+### Tablas de Mortalidad 1950-1962
+
+### Tablas de Mortalidad 1974-1982
+
+
